@@ -29,7 +29,7 @@ except Exception:
     pass
 
 # ─────── Константы ───────
-TARGET_TIME = "04:55"
+TARGET_TIME = "05:30"
 USER_DATA_DIR = os.path.abspath("./User_Data")
 
 # ─────── Аргументы ───────
